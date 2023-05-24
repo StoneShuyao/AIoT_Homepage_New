@@ -72,7 +72,7 @@ taxonomyPageHeader = []
   [[menu.main]]
     name = "Members"
     weight = 20
-    pre = "<i class='fas fa-people-group pr-2'></i>"
+    pre = "<i class='fas fa-user pr-2'></i>"
     url = "/members"
   [[menu.main]]
     name = "Publications"
@@ -137,7 +137,7 @@ taxonomyPageHeader = []
   privacy_policy = "https://policies.google.com/privacy"
 
   # Google Custom Search Engine ID.
-  gcs_engine_id = "007239566369470735695:624rglujm-w"
+  # gcs_engine_id = "007239566369470735695:624rglujm-w"
 
   # User interface configuration
   [params.ui]

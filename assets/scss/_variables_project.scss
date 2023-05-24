@@ -7,10 +7,12 @@ html.smooth-scroll {
 }
 
 // Theme colors
-$primary: #4279f4;
-$secondary: #fff;
+$primary: #213d7a;
+$secondary: #e98436;
 $dark: #213d7a;
-$info: #adb5bd;
+$info: white;
+$light: #dee2e6;
+$warning: #d3edb7;
 $light: #dee2e6;
 
 // Nav bar colors
@@ -172,7 +174,7 @@ $google_font_family: "Open+Sans:300,300i,400,400i,600,600i,700,700i&display=swap
 
 .name {
   text-align: center;
-  font-weight: bolder;
+  font-weight: 700;
   font-size: 22px;
   line-height: 35px;
   color: rgb(64, 63, 63);
