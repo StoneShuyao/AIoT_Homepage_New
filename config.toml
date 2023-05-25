@@ -85,6 +85,11 @@ taxonomyPageHeader = []
     pre = "<i class='fas fa-award pr-2'></i>"
     url = "/awards"
   [[menu.main]]
+    name = "Openings"
+    weight = 50
+    pre = "<i class='fas fa-door-open pr-2'></i>"
+    url = "/openings"
+  [[menu.main]]
     name = "Blog"
     weight = 60
     pre = "<i class='fas fa-rss pr-2'></i>"

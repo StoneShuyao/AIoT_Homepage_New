@@ -37,30 +37,51 @@ $google_font_family: "Open+Sans:300,300i,400,400i,600,600i,700,700i&display=swap
   background-color: $dark;
 
   a {
-    border-bottom: 1px dotted paleturquoise;
+    border-bottom: 1px dotted white;
     
-    color: paleturquoise !important;
+    color: white !important;
     font-weight: 600;
     padding: 0 2px 1px 2px;
     text-decoration: none;
     
     &:hover {
-      border-bottom: 1px dotted #fff;
+      border-bottom: 1px dotted paleturquoise;
 
-      color: #fff !important;
+      color: paleturquoise !important;
     }
   }
 }
 
 .border-primary-dark {
-  border-color: $info !important;
+  border-color: black;
 }
 
 .section-head {
+  font-size: 1.8em;
+  color: $primary;
+  font-weight: bold;
+  padding: 1em 0 .5em 0;
+}
+
+.research-head {
+  font-size: 2em;
+  color: $primary;
+  font-weight: bold;
+  padding: 0 0 1em 0;
+}
+
+.topic-head {
+  font-size: 1.5em;
+  color: $primary;
+  font-weight: bold;
+  padding: 0 0 0em 0;
+}
+
+.news-head{
   font-size: 1.25em;
   color: $primary;
   font-weight: bold;
-  padding: 0 0 .5em 0;
+  padding: 0 0 0 0;
 }
 
 .contain {
@@ -86,17 +107,23 @@ $google_font_family: "Open+Sans:300,300i,400,400i,600,600i,700,700i&display=swap
     float: right;
     margin: 0 0 1.5em 1.5em; }
 
-#overview, #community {
+#overview {
   padding: 2em 1.5em 2em 1.5em;
   text-align: center;
   margin: 0; }
+
+#community {
+  padding: 0em 1.5em 1em 1.5em;
+  text-align: center;
+  margin: 0; }
+
 #overview p, #community p {
   font-size: 1.125em;}
 
-#overview {
-  border-top: 2px solid #b6d0ff;
-  border-bottom: 2px solid #b6d0ff;
-}
+// #overview {
+//   // border-top: 2px solid #b6d0ff;
+//   // border-bottom: 2px solid #b6d0ff;
+// }
 
 #community {
   border-top: 2px solid #b6d0ff;
@@ -104,15 +131,24 @@ $google_font_family: "Open+Sans:300,300i,400,400i,600,600i,700,700i&display=swap
 
 #news {
   padding: 2em 1.5em 2em 1.5em;
-  text-align: center;
+  background-color: #e6f5d6;
   margin: 0; }
-#news p {
+#news ul {
+  text-align: left;
+  font-size: 1.1em;}
+#news summary {
+  text-align: left;
+  color:#213d7a;
   font-size: 1.125em;}
 
 #news {
-  border-top: 2px solid #b6d0ff;
-  border-bottom: 2px solid #b6d0ff;
+  // border-top: 2px solid #b6d0ff;
+  border: 2px solid #2ab773;
 }
+
+#pageContent {
+  padding: 2em 1.5em 2em 1.5em;
+  margin: 0; }
 
 #pageContent .lead {
   margin: 0 1.5em 3em 1.5em;}

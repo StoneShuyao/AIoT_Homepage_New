@@ -4,9 +4,9 @@ linkTitle = "Home"
 
 +++
 
-{{< blocks/cover title="Welcome to AIoT Lab!" image_anchor="top" height="full" color="orange" >}}
+{{< blocks/cover title="Welcome to AIoT Lab!" image_anchor="top"  color="orange" >}}
 <div class="mx-auto">
-	<a class="btn btn-lg btn-danger mr-3 mb-4" href="{{< relref "/members" >}}">
+	<a class="btn btn-lg btn-danger mr-3 mb-4" href="{{< relref "/openings" >}}">
 		Join Us! <i class="fas fa-handshake ml-2 "></i>
 	</a>
 	<a class="btn btn-lg btn-secondary mr-3 mb-4" href="{{< relref "/research" >}}">
@@ -33,39 +33,150 @@ linkTitle = "Home"
 	</div>
 </div>
 
-{{% blocks/section color="warning"%}}
-
-# **News**
-
-- We have three papers accepted by Mobisys'23. Congratulations! ([Details](/blog/2023/02/27/mobisys23-paper-acceptance/))
-- AIoT Lab members traveled to Sydney to attend MobiCom'22 and gave talks on the main conference.([Details](/blog/2022/10/22/mobicom22-trip/))
-- We have three papers accepted by Mobisys'23. Congratulations! ([Details](/blog/2023/02/27/mobisys23-paper-acceptance/))
-- <details>
-	<summary>More</summary>
+<div id="news">
+	<div class="contain">
+	  	<h4 class="news-head">News</h4>
 		<ul>
-			<li>We have three papers accepted by Mobisys'23. Congratulations! (<a href="/blog/2023/02/27/mobisys23-paper-acceptance/">Details</a>)</li>
-			<li>AIoT Lab members traveled to Sydney to attend MobiCom'22 and gave talks on the main conference. (<a href="/blog/2022/10/22/mobicom22-trip/">Details</a>)</li>
+			<li>We have three papers accepted by Mobisys'23. Congratulations! (<a href="/blog/news/01-mobisys23/">Details</a>)</li>
+			<li>AIoT Lab members traveled to Sydney to attend MobiCom'22 and gave talks on the main conference. (<a href="/blog/conference-trips/01-mobicom22-trip/">Details</a>)</li>
 		</ul>
-</details>
-	
-{{% /blocks/section %}}
+		<details>
+			<summary>More</summary>
+				<ul>
+					<li>We have three papers accepted by Mobisys'23. Congratulations! (<a href="/blog/news/01-mobisys23/">Details</a>)</li>
+					<li>AIoT Lab members traveled to Sydney to attend MobiCom'22 and gave talks on the main conference. (<a href="/blog/conference-trips/01-mobicom22-trip/">Details</a>)</li>
+				</ul>
+		</details>
+	</div>
+</div>
 
+<section id="pageContent">
+	<div class="container">
+	  <h4 class="research-head" align="center">Our Research Areas</h4>
+	  <div class="card-deck">
+		<!--  A single project card  -->
+		<div class="card border-primary-dark">
+		  <img
+			src="/images/topics/edge-AI.png"
+			class="card-img-top"
+			draggable="false"
+			style="padding: 1rem;"
+			alt="edge AI image"
+		  />
+		  <div class="card-body bg-primary-dark">
+			<h5 class="card-title text-white topic-head">
+				<a target="_blank" rel="noopener" href="/research/health/">Edge-AI</a>
+			</h5>
+			<ul class="card-text text-white">
+				<li>Real-time Deep Learning</li>
+				<li>Edge AutoML</li>
+			</ul>
+		  </div>
+		</div>
 
-{{< blocks/section color="info">}}
-{{% blocks/feature icon="fa-duotone fa-layer-group" title="**Research**" url="/research"%}}
-{{% /blocks/feature %}}
+		<!--  A single project card  -->
+		<div class="card border-primary-dark">
+		  <img
+			src="/images/topics/health.png"
+			class="card-img-top"
+			draggable="false"
+			style="padding: 1rem;"
+			alt="smart health image"
+		  />
+		  <div class="card-body bg-primary-dark">
+			<h5 class="card-title text-white topic-head">
+				<a target="_blank" rel="noopener" href="/research/health/">Smart Mobile Health Systems</a>
+			</h5>
+			<ul class="card-text text-white">
+				<li>Federated Learning</li>
+				<li>Digital Biomarkers for Alzheimer's Disease</li>
+			</ul>
+		  </div>
+		</div>
 
+		<div class="card border-primary-dark">
+		  <img
+			src="/images/topics/smart-city.png"
+			class="card-img-top"
+			draggable="false"
+			style="padding: 1rem;"
+			alt="smart city image"
+		  />
+		  <div class="card-body bg-primary-dark">
+			<h5 class="card-title text-white topic-head">
+				<a target="_blank" rel="noopener" href="/research/city/">Smart City Systems</a>
+			</h5>
+			<ul class="card-text text-white">
+				<li>Smart Roadside Infrastructure</li>
+				<li>Infrastructure Assisted Autonomous Driving</li>
+			</ul>
+		  </div>
+		</div>
+	  </div>
+	  <br />
 
-{{% blocks/feature icon="fa-solid fa-book" title="**Publications**" url="/pub" %}}
-{{% /blocks/feature %}}
+	  <div class="card-columns">
+		<div class="card border-primary-dark">
+		  <img
+			src="/images/topics/cyber-physical.png"
+			class="card-img-top"
+			draggable="false"
+			style="padding: 1rem;"
+			alt="cyber physical image"
+		  />
+		  <div class="card-body bg-primary-dark">
+			<h5 class="card-title text-white topic-head">
+				Cyber-physical Systems
+			</h5>
+			<ul class="card-text text-white">
+				<li>Real-time 4D volcano tomography</li>
+				<li>Robotic sensor systems for aquatic monitoring</li>
+				<li>Data center thermal/energy management</li>
+			</ul>
+		  </div>
+		</div>
 
+		<div class="card border-primary-dark">
+		  <img
+			src="/images/topics/wireless.png"
+			class="card-img-top"
+			draggable="false"
+			style="padding: 1rem;"
+			alt="Wireless images"
+		  />
+		  <div class="card-body bg-primary-dark">
+			<h5 class="card-title text-white topic-head">
+				Wireless systems
+			</h5>
+			<ul class="card-text text-white">
+				<li>Power Consumption of NB-IoT in the Wild</li>
+				<li>Wireless Coexistence in Open Radio Spectrum: Curses and Blessings</li>
+			</ul>
+		  </div>
+		</div>	
+	  </div>
+	  <br />
+	  <!-- For future editors: If you are adding cards not in multiples of 3, wrap them in a 'card-columns' div 
+						  instead of card-deck. It will look more pleasing to the eye. -->
+	</div>
+</section>
 
-{{% blocks/feature icon="fa-solid fa-users" title="**Members**" url="/members" %}}
-{{% /blocks/feature %}}
+<div id="community">
+	<div class="contain">
+	  <h4 class="section-head">Join Us</h4>
+	  <p>
+		Check out the <a href="/blog/">weekly community call</a>, get involved in discussions on the <a href="/blog/">mailing list</a> or chat with others on the <a href="/blog/">Slack Workspace</a>!
+	  </p>
+  
+	  <a
+		class="btn btn-lg btn-primary mr-3 mb-4"
+		href="/openings"
+	  >
+		Openings <i class="fas fa-arrow-alt-circle-right ml-2"></i>
+	  </a>
+	</div>
+</div>
 
-
-
-{{< /blocks/section >}}
 
 
 
