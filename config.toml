@@ -72,7 +72,7 @@ taxonomyPageHeader = []
   [[menu.main]]
     name = "Members"
     weight = 20
-    pre = "<i class='fas fa-user pr-2'></i>"
+    pre = "<i class='fas fa-users pr-2'></i>"
     url = "/members"
   [[menu.main]]
     name = "Publications"

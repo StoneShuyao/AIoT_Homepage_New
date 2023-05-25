@@ -13,40 +13,25 @@ linkTitle = "Home"
 		Learn More <i class="fas fa-arrow-alt-circle-right ml-2"></i>
 	</a>
 	<p class="lead mt-5 mb-2"><b>Start a tour of AIoT Lab!</b></p>
-	{{< blocks/link-down color="white" >}}
+	<div class="mx-auto mt-3">
+		{{<blocks/link-down color="white">}}
+	</div>
 </div>
 {{< /blocks/cover >}}
 
-
-{{% blocks/lead color="primary" %}}
-We are a research group based in the Department of Information Engineering, Chinese University of Hong Kong. 
-We focus on the research, design, and development of ...... systems found in the Internet of Things (IoT) and its embedded-AI generation (AIoT). 
-Our research has two main sub-directions of Smart Health and Smart City. 
-In the first sub-direction, ...... 
-In the second sub-direction, ...... 
-Due to the immediate application potential, our research has been funded (or co-funded) externally by government authorities and companies in the ICT, energy, and manufacturing sectors.
-{{% /blocks/lead %}}
-
-
-{{< blocks/section color="info">}}
-{{% blocks/feature icon="fa-duotone fa-layer-group" title="**Research**" url="/research"%}}
-We are doing research that is relevant to the future of life.
-{{% /blocks/feature %}}
-
-
-{{% blocks/feature icon="fa-solid fa-book" title="**Publications**" url="/pub" %}}
-Our research papers has been accepted by peer-reviewed conferences and journals.
-{{% /blocks/feature %}}
-
-
-{{% blocks/feature icon="fa-solid fa-people-group" title="**Members**" url="/members" %}}
-We are working with talented researchers.
-{{% /blocks/feature %}}
-
-
-
-{{< /blocks/section >}}
-
+<div id="overview">
+	<div class="contain">
+	  <h4 class="section-head">About AIoT Lab</h4>
+	  <p>
+		We are a research group based in the Department of Information Engineering, Chinese University of Hong Kong. 
+		We focus on the research, design, and development of ...... systems found in the Internet of Things (IoT) and its embedded-AI generation (AIoT). 
+		Our research has two main sub-directions of Smart Health and Smart City. 
+		In the first sub-direction, ...... 
+		In the second sub-direction, ...... 
+		Due to the immediate application potential, our research has been funded (or co-funded) externally by government authorities and companies in the ICT, energy, and manufacturing sectors.
+	  </p>
+	</div>
+</div>
 
 {{% blocks/section color="warning"%}}
 
@@ -63,16 +48,26 @@ We are working with talented researchers.
 		</ul>
 </details>
 	
-
-
 {{% /blocks/section %}}
 
 
+{{< blocks/section color="info">}}
+{{% blocks/feature icon="fa-duotone fa-layer-group" title="**Research**" url="/research"%}}
+{{% /blocks/feature %}}
 
-{{< blocks/section >}}
 
-<div class="col-12">
-<h1 class="text-center">This is another Section</h1>
-</div>
+{{% blocks/feature icon="fa-solid fa-book" title="**Publications**" url="/pub" %}}
+{{% /blocks/feature %}}
+
+
+{{% blocks/feature icon="fa-solid fa-users" title="**Members**" url="/members" %}}
+{{% /blocks/feature %}}
+
+
 
 {{< /blocks/section >}}
+
+
+
+
+
