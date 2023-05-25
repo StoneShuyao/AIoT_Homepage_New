@@ -90,15 +90,28 @@ $google_font_family: "Open+Sans:300,300i,400,400i,600,600i,700,700i&display=swap
   padding: 2em 1.5em 2em 1.5em;
   text-align: center;
   margin: 0; }
-  #overview p, #community p {
-    font-size: 1.125em;}
+#overview p, #community p {
+  font-size: 1.125em;}
 
 #overview {
+  border-top: 2px solid #b6d0ff;
   border-bottom: 2px solid #b6d0ff;
 }
 
 #community {
   border-top: 2px solid #b6d0ff;
+}
+
+#news {
+  padding: 2em 1.5em 2em 1.5em;
+  text-align: center;
+  margin: 0; }
+#news p {
+  font-size: 1.125em;}
+
+#news {
+  border-top: 2px solid #b6d0ff;
+  border-bottom: 2px solid #b6d0ff;
 }
 
 #pageContent .lead {
@@ -168,7 +181,8 @@ $google_font_family: "Open+Sans:300,300i,400,400i,600,600i,700,700i&display=swap
   margin-right: auto;
   margin-bottom: 0px;
   margin-left: auto;
-  justify-content: flex-start;
+  justify-content: center;
+  // text-align: center;
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
 
