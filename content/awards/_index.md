@@ -11,3 +11,4 @@ menu:
 - **<font color=#DC143C>Best Poster Award</font>**. "Aaron: Compile-time Kernel Adaptation for Multi-DNN Inference Acceleration on Edge GPU", The 20th ACM Conference on Embedded Networked Sensor Systems (SenSys), 2022.
 - **<font color=#DC143C>Best Paper Finalist</font>**. "BlastNet: Exploiting Duo-Blocks for Cross-Processor Real-Time DNN Inference", The 20th ACM Conference on Embedded Networked Sensor Systems (SenSys), 2022.
 - **<font color=#DC143C>Best Paper Award Runner-Up</font>**. "VIPS: Real-Time Perception Fusion for Infrastructure-Assisted Autonomous Driving", The 28th Annual International Conference on Mobile Computing and Networking (MobiCom), 2022.
+- **<font color=#DC143C>Best Student Paper Award</font>**. "milliEye: A Lightweight mmWave Radar and Camera Fusion System for Robust Object Detection", IEEE/ACM Sixth International Conference on Internet-of-Things Design and Implementation (IoTDI), 2021.
