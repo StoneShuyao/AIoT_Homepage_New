@@ -1,5 +1,5 @@
 ---
-title: "Researcch Projects"
+title: "Research Projects"
 linkTitle: "Research"
 weight: 10
 type: docs
