@@ -27,7 +27,7 @@ Wenzhan Song (Professor, ECE, University of Georgia)<br>
 Jonathan M. Lees (Professor, Geological Sciences, UNC Chapel Hill)<br>
 
 ### **Awards & Recognitions**
-<li><b>Best Paper Finalist, “Imaging Volcano Seismic Tomography in Sensor Networks”, the 10th Annual IEEE Communications Society Conference on Sensor and Ad Hoc Communications and Networks (SECON), 2013.</li>
+<li>Best Paper Finalist, “Imaging Volcano Seismic Tomography in Sensor Networks”, the 10th Annual IEEE Communications Society Conference on Sensor and Ad Hoc Communications and Networks (SECON), 2013.</li>
                                         
 
 ### **Publications**

@@ -1,6 +1,6 @@
 ---
 title: "Ph.D."
 linkTitle: "Ph.D."
-weight: 2
+weight: 3
 type: docs
 ---

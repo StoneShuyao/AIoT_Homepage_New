@@ -1,6 +1,6 @@
 ---
-title: "OUYANG Xiaomin"
-weight: 2
+title: "HUANG Xuan"
+weight: 4
 type: docs
 description: >
   Ph.D. Candidate
@@ -8,10 +8,10 @@ description: >
 
 <div class="member-photo-frame wk-desk-4 wk-ipadp-4 wk-mobile-12 wk-tab-12">
     <div class=".member-photo-image">
-     <img src="/images/members/OUYANG-Xiaomin.jpg">
+     <img src="/images/members/HUANG-Xuan.jpg">
     </div>
 </div>
 
  - **Position:** 4th Year PhD Student
- - **Contact:** [ox019@ie.cuhk.edu.hk](ox019@ie.cuhk.edu.hk)
- - **Bio:** [Website](https://xmouyang.github.io/)
+ - **Contact:** [1155136647@link.cuhk.edu.hk](1155136647@link.cuhk.edu.hk)
+ - **Bio:** 
