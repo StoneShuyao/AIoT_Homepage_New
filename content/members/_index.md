@@ -231,21 +231,6 @@ menu:
   </a>
   <!-- ==================================================== -->
   <!-- ============== A block of a member ================= -->
-  <a href="phd/zhao-zhihe">
-    <div class="single-member wk-desk-4 wk-ipadp-4 wk-mobile-12 wk-tab-12">
-      <div class="team-member-image">
-        <img src="/images/members/ZHAO-Zhihe.jpg">
-      </div>
-      <p class="name">
-        ZHAO Zhihe
-      </p>
-      <p class="position">
-        Ph.D. Candidate
-      </p>
-    </div>
-  </a>
-  <!-- ==================================================== -->
-  <!-- ============== A block of a member ================= -->
   <a href="phd/wu-chenhao">
     <div class="single-member wk-desk-4 wk-ipadp-4 wk-mobile-12 wk-tab-12">
       <div class="team-member-image">
