@@ -1,6 +1,6 @@
 ---
-title: "Edge AI"
-linkTitle: "Edge AI"
+title: "Edge AI Systems"
+linkTitle: "Edge AI Systems"
 weight: 4
 type: docs
 description: >

@@ -1,6 +1,6 @@
 ---
-title: "Smart City"
-linkTitle: "Smart City"
+title: "Smart City Systems"
+linkTitle: "Smart City Systems"
 weight: 1
 type: docs
 description: >

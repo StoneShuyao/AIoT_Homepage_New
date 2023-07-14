@@ -1,6 +1,6 @@
 ---
-title: "Wireless"
-linkTitle: "Wireless"
+title: "Wireless Systems"
+linkTitle: "Wireless Systems"
 weight: 3
 type: docs
 description: 

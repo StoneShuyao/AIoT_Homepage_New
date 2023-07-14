@@ -1,6 +1,6 @@
 ---
-title: "Smart Health"
-linkTitle: "Smart Health"
+title: "Smart Health Systems"
+linkTitle: "Smart Health Systems"
 weight: 2
 type: docs
 description: >

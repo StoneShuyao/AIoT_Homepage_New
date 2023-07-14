@@ -1,6 +1,6 @@
 ---
-title: "Cyber-physical"
-linkTitle: "Cyber-physical"
+title: "Cyber-physical Systems"
+linkTitle: "Cyber-physical Systems"
 weight: 5
 type: docs
 description: >
