@@ -7,7 +7,7 @@ menu:
   main:
     weight: 40
 ---
-
+- **<font color=#DC143C>Best Paper Award</font>**. "Mozart: A Mobile ToF System for Sensing in the Dark through Phase Manipulation", The 21st ACM International Conference on Mobile Systems, Applications, and Services (MobiSys), 2023.
 - **<font color=#DC143C>Best Poster Award</font>**. "Aaron: Compile-time Kernel Adaptation for Multi-DNN Inference Acceleration on Edge GPU", The 20th ACM Conference on Embedded Networked Sensor Systems (SenSys), 2022.
 - **<font color=#DC143C>Best Paper Finalist</font>**. "BlastNet: Exploiting Duo-Blocks for Cross-Processor Real-Time DNN Inference", The 20th ACM Conference on Embedded Networked Sensor Systems (SenSys), 2022.
 - **<font color=#DC143C>Best Paper Award Runner-Up</font>**. "VIPS: Real-Time Perception Fusion for Infrastructure-Assisted Autonomous Driving", The 28th Annual International Conference on Mobile Computing and Networking (MobiCom), 2022.
