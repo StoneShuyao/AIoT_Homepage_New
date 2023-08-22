@@ -527,11 +527,26 @@ menu:
         <img src="/images/members/XIN-Jiang.jpg">
       </div>
       <p class="name">
-        XIN Jiang
+        Jiang XIN
       </p>
       <p class="position">
         Research Assistant
         (Visiting Ph.D)
+      </p>
+    </div>
+  </a>
+  <!-- ==================================================== -->
+  <!-- ============== A block of a member ================= -->
+  <a href="ra/zheng-bowen">
+    <div class="single-member wk-desk-4 wk-ipadp-4 wk-mobile-12 wk-tab-12">
+      <div class="team-member-image">
+        <img src="/images/members/ZHENG-Bowen.png">
+      </div>
+      <p class="name">
+        Bowen ZHENG
+      </p>
+      <p class="position">
+        Research Assistant
       </p>
     </div>
   </a>
@@ -552,6 +567,21 @@ menu:
       </p>
       <p class="position">
         Research Associate
+      </p>
+    </div>
+  </a>
+  <!-- ==================================================== -->
+  <!-- ============== A block of a member ================= -->
+  <a href="staff/joanna">
+    <div class="single-member wk-desk-4 wk-ipadp-4 wk-mobile-12 wk-tab-12">
+      <div class="team-member-image">
+        <img src="/images/members/Joanna.jpg">
+      </div>
+      <p class="name">
+        Joanna IP
+      </p>
+      <p class="position">
+        Manager Assistant
       </p>
     </div>
   </a>

@@ -1,7 +1,310 @@
 /*
-
-Nothing defined here. The Hugo project that uses this theme can override theme variables by adding a file to:
-
-assets/scss/_variables_project.scss
-
+Add styles or override the theme's variables here.
 */
+
+html.smooth-scroll {
+  scroll-behavior: smooth;
+}
+
+// Theme colors
+$primary: #213d7a;
+$secondary: #e98436;
+$dark: #213d7a;
+$info: white;
+$light: #dee2e6;
+$warning: #d9eec3;
+$light: #dee2e6;
+
+// Nav bar colors
+$white: #fff;
+$navbar-dark-color: rgba($white, 1);
+$navbar-dark-hover-color: rgba($white, 0.75);
+$navbar-dark-active-color: $navbar-dark-color;
+
+// Fonts
+$google_font_family: "Open+Sans:300,300i,400,400i,600,600i,700,700i&display=swap" !default;
+
+// Front page styling
+.card-img-top {
+  object-fit: scale-down;
+}
+
+.text-white {
+  font-weight: 400;
+}
+
+.bg-primary-dark {
+  background-color: $dark;
+
+  a {
+    border-bottom: 1px dotted white;
+    
+    color: white !important;
+    font-weight: 600;
+    padding: 0 2px 1px 2px;
+    text-decoration: none;
+    
+    &:hover {
+      border-bottom: 1px dotted paleturquoise;
+
+      color: paleturquoise !important;
+    }
+  }
+}
+
+.border-primary-dark {
+  border-color: black;
+}
+
+.section-head {
+  font-size: 1.8em;
+  color: $primary;
+  font-weight: bold;
+  padding: 1em 0 .5em 0;
+}
+
+.research-head {
+  font-size: 2em;
+  color: $primary;
+  font-weight: bold;
+  padding: 0 0 1em 0;
+}
+
+.topic-head {
+  font-size: 1.5em;
+  color: $primary;
+  font-weight: bold;
+  padding: 0 0 0em 0;
+}
+
+.news-head{
+  font-size: 1.25em;
+  color: $primary;
+  font-weight: bold;
+  padding: 0 0 0 0;
+}
+
+.contain {
+  margin: 0 auto;
+  max-width: 1200px; }
+
+.image {
+  display: block; }
+  .image img {
+    display: block;
+    width: 100%;
+    height: auto; }
+  .image.left, .image.right {
+    max-width: 45%; }
+    .image.left::after, .image.right::after {
+      clear: both;
+      content: "";
+      display: block; }
+  .image.left {
+    float: left;
+    margin: 0 1.5em 1.5em 0; }
+  .image.right {
+    float: right;
+    margin: 0 0 1.5em 1.5em; }
+
+#overview {
+  padding: 2em 1.5em 2em 1.5em;
+  text-align: center;
+  margin: 0; }
+
+#community {
+  padding: 0em 1.5em 1em 1.5em;
+  text-align: center;
+  margin: 0; }
+
+#overview p, #community p {
+  font-size: 1.125em;}
+
+// #overview {
+//   // border-top: 2px solid #b6d0ff;
+//   // border-bottom: 2px solid #b6d0ff;
+// }
+
+#community {
+  border-top: 2px solid #b6d0ff;
+}
+
+#news {
+  padding: 2em 1.5em 2em 1.5em;
+  background-color: #e6f5d6;
+  margin: 0; }
+#news ul {
+  text-align: left;
+  font-size: 1.1em;}
+#news summary {
+  text-align: left;
+  color:#213d7a;
+  font-size: 1.125em;}
+
+#news {
+  // border-top: 2px solid #b6d0ff;
+  border: 2px solid #2ab773;
+}
+
+#pageContent {
+  padding: 2em 1.5em 2em 1.5em;
+  margin: 0; }
+
+#pageContent .lead {
+  margin: 0 1.5em 3em 1.5em;}
+  #pageContent .lead > .image {
+    padding: 0 1.5em;
+    max-width: 60%;
+    margin-bottom: 1.5em; }
+  #pageContent .lead > .text p {
+    font-size: 1em; }
+
+@media screen and (min-width: 480px) {
+  #overview, #community {
+    font-size: 1.125em; }
+  #pageContent .lead > .image {
+    max-width: 35%;
+    margin-bottom: 3em; }
+  #pageContent .lead > .text p {
+    font-size: 1em; } }
+
+@media screen and (min-width: 769px) {
+  #pageContent .lead {
+    margin-top: 1em;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: row;
+        flex-direction: row;
+    -ms-flex-wrap: nowrap;
+        flex-wrap: nowrap;
+    -ms-flex-pack: justify;
+        justify-content: space-between;
+    -ms-flex-align: stretch;
+        align-items: stretch; }
+    #pageContent .lead > * {
+      -ms-flex: 0 1 auto;
+          flex: 0 1 auto; }
+    #pageContent .lead > .image {
+      display: block;
+      margin: 0 auto;
+      max-width: 100%; }
+      #pageContent .lead > .image > img {
+        max-width: 80%;
+        margin: 0 auto; }
+    #pageContent .lead > .text {
+      -ms-flex-preferred-size: 70%;
+          flex-basis: 70%; }
+    #pageContent .lead:nth-child(2n+0) > .image {
+      -ms-flex-order: 2;
+          order: 2; }
+    #pageContent .lead:nth-child(2n+0) > .text {
+      -ms-flex-order: 1;
+          order: 1; } }
+
+// settings of the main member page
+.members-block {
+  min-height: 75px;
+  height: fit-content;
+  width: 100%;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  // background-color: #F5F5F5;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 0px;
+  margin-right: auto;
+  margin-bottom: 0px;
+  margin-left: auto;
+  justify-content: center;
+  // text-align: center;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+.name {
+  text-align: center;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 35px;
+  color: rgb(64, 63, 63);
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.name:hover {
+  color: rgb(242, 78, 33);
+  text-decoration: underline;
+}
+
+.position {
+  text-align: center;
+  color: rgb(121, 121, 121);
+  font-size: 20px;
+  line-height: 25px;
+  font-weight: 400;
+}
+
+.team-member-image {
+  width: 210px;
+  max-width: 210px;
+  height:280px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  margin-top: 20px;
+  margin-right: 0px;
+  margin-bottom: 5px;
+  margin-left: 0px;
+}
+
+.single-member {
+  width: 260px;
+  max-width: 260px;
+  height: 430px;
+  padding-top: 0px;
+  padding-right: 25px;
+  padding-bottom: 0px;
+  padding-left: 25px;
+  margin: 5px 30px 30px 0px;
+  border-style: solid;
+  border-radius: 4%;
+  border-width: 2px;
+  border-color: rgb(225, 225, 225);
+  background-color: #e8e7e7;
+}
+
+.single-member:hover {
+  background-color: rgba(216, 229, 247, 0.837);
+  border: 2px solid rgba(197, 218, 247, 0.877);
+}
+
+// The photo frame in the bio page of a single member
+.member-photo-frame {
+  width: 260px;
+  max-width: 260px;
+  height: 320px;
+  max-height: 320px;
+  padding-top: 20px;
+  padding-right: 25px;
+  padding-bottom: 20px;
+  padding-left: 25px;
+  margin: 5px 30px 40px 20px;
+  border-style: solid;
+  border-radius: 4%;
+  border-width: 2px;
+  border-color: rgb(225, 225, 225);
+  background-color: #e8e7e7;
+}
+
+.member-photo-image {
+  width: 210px;
+  max-width: 210px;
+  height:280px;
+  max-height: 280px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
