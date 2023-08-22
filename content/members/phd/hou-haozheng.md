@@ -1,5 +1,5 @@
 ---
-title: "HOU Haozheng"
+title: "Haozheng HOU"
 weight: 10
 type: docs
 description: >
@@ -12,6 +12,5 @@ description: >
     </div>
 </div>
 
- - **Position:** 2nd Year PhD Student
+ - **Position:** 3rd Year PhD Student
  - **Contact:** [1155161507@link.cuhk.edu.hk](1155161507@link.cuhk.edu.hk)
- - **Bio:** 

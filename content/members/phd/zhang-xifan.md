@@ -1,5 +1,5 @@
 ---
-title: "ZHANG Xifan"
+title: "Xifan ZHANG"
 weight: 11
 type: docs
 description: >
@@ -12,6 +12,5 @@ description: >
     </div>
 </div>
 
- - **Position:** 1st Year PhD Student
+ - **Position:** 2nd Year PhD Student
  - **Contact:** [zx022@ie.cuhk.edu.hk](zx022@ie.cuhk.edu.hk)
- - **Bio:** 

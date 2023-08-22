@@ -1,5 +1,5 @@
 ---
-title: "LIANG Zhijian"
+title: "Zhijian LIANG"
 weight: 2
 type: docs
 description: >
@@ -14,4 +14,3 @@ description: >
 
  - **Position:** Postdoc
  - **Contact:** [zliangal@connect.ust.hk](zliangal@connect.ust.hk)
- - **Bio:** 

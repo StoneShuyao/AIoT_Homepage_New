@@ -1,5 +1,5 @@
 ---
-title: "LIU Kaiwei"
+title: "Kaiwei LIU"
 weight: 14
 type: docs
 description: >
@@ -12,6 +12,5 @@ description: >
     </div>
 </div>
 
- - **Position:** 1st Year PhD Student
+ - **Position:** 2nd Year PhD Student
  - **Contact:** [1155189693@link.cuhk.edu.hk](1155189693@link.cuhk.edu.hk)
- - **Bio:** 

@@ -1,6 +1,6 @@
 ---
-title: "Yang LI"
-weight: 12
+title: "Yuting HE"
+weight: 21
 type: docs
 description: >
   Ph.D. Candidate
@@ -8,9 +8,9 @@ description: >
 
 <div class="member-photo-frame wk-desk-4 wk-ipadp-4 wk-mobile-12 wk-tab-12">
     <div class=".member-photo-image">
-     <img src="/images/members/LI-Yang.jpg">
+     <img src="/images/members/HE-Yuting.jpg">
     </div>
 </div>
 
- - **Position:** 2nd Year PhD Student
- - **Contact:** [yangli22@link.cuhk.edu.hk](yangli22@link.cuhk.edu.hk)
+ - **Position:** 1st Year PhD Student
+ - **Contact:** [heyuting@link.cuhk.edu.hk](heyuting@link.cuhk.edu.hk)

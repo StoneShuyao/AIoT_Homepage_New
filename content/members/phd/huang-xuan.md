@@ -1,5 +1,5 @@
 ---
-title: "HUANG Xuan"
+title: "Xuan HUANG"
 weight: 4
 type: docs
 description: >
@@ -12,6 +12,5 @@ description: >
     </div>
 </div>
 
- - **Position:** 4th Year PhD Student
+ - **Position:** 5th Year PhD Student
  - **Contact:** [1155136647@link.cuhk.edu.hk](1155136647@link.cuhk.edu.hk)
- - **Bio:** 

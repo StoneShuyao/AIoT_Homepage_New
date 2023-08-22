@@ -1,5 +1,5 @@
 ---
-title: "LIU Fang"
+title: "Fang LIU"
 weight: 1
 type: docs
 description: >
@@ -14,4 +14,3 @@ description: >
 
  - **Position:** Postdoc
  - **Contact:** [liuf2013.ie@hotmail.com](liuf2013.ie@hotmail.com)
- - **Bio:** 

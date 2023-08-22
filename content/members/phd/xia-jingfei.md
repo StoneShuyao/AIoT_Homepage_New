@@ -1,5 +1,5 @@
 ---
-title: "XIA Jingfei"
+title: "Jingfei XIA"
 weight: 17
 type: docs
 description: >
@@ -12,6 +12,5 @@ description: >
     </div>
 </div>
 
- - **Position:** 1st Year PhD Student
+ - **Position:** 2nd Year PhD Student
  - **Contact:** [jingfeixia708@gmail.com](jingfeixia708@gmail.com)
- - **Bio:** 

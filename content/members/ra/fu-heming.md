@@ -1,5 +1,5 @@
 ---
-title: "FU Heming"
+title: "Heming FU"
 weight: 2
 type: docs
 description: >
@@ -14,4 +14,3 @@ description: >
 
  - **Position:** Research Assistant
  - **Contact:** [hemingfu@link.cuhk.edu.hk](hemingfu@link.cuhk.edu.hk)
- - **Bio:** 

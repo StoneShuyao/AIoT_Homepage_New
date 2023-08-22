@@ -1,5 +1,5 @@
 ---
-title: "CHENG Sitong"
+title: "Sitong CHENG"
 weight: 3
 type: docs
 description: >
@@ -14,4 +14,3 @@ description: >
 
  - **Position:** Research Assistant
  - **Contact:** [stcheng@link.cuhk.edu.hk](stcheng@link.cuhk.edu.hk)
- - **Bio:** 

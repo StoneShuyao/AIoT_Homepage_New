@@ -1,9 +1,9 @@
 ---
-title: "SHI Shuyao"
-weight: 5
+title: "Shuyao SHI"
+weight: 8
 type: docs
 description: >
-  Ph.D. Candidate
+  Postdoc
 ---
 
 <div class="member-photo-frame wk-desk-4 wk-ipadp-4 wk-mobile-12 wk-tab-12">
@@ -12,6 +12,5 @@ description: >
     </div>
 </div>
 
- - **Position:** 4th Year PhD Student
+ - **Position:** Postdoc
  - **Contact:** [ss119@ie.cuhk.edu.hk](ss119@ie.cuhk.edu.hk)
- - **Bio:** 

@@ -1,5 +1,5 @@
 ---
-title: "YANG Bufang"
+title: "Bufang YANG"
 weight: 16
 type: docs
 description: >
@@ -12,6 +12,5 @@ description: >
     </div>
 </div>
 
- - **Position:** 1st Year PhD Student
+ - **Position:** 2nd Year PhD Student
  - **Contact:** [bfyang@link.cuhk.edu.hk](bfyang@link.cuhk.edu.hk)
- - **Bio:** 

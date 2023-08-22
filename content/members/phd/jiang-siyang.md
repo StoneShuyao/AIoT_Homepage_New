@@ -1,5 +1,5 @@
 ---
-title: "JIANG Siyang"
+title: "Siyang JIANG"
 weight: 13
 type: docs
 description: >
@@ -12,6 +12,6 @@ description: >
     </div>
 </div>
 
- - **Position:** 1st Year PhD Student
+ - **Position:** 2nd Year PhD Student
  - **Contact:** [syjiang@ie.cuhk.edu.hk](syjiang@ie.cuhk.edu.hk)
- - **Bio:** [Website](https://siyang-jiang.github.io/)
+ - **Bio:** [Website](http://syjiang.com/)

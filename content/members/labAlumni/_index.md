@@ -1,7 +1,7 @@
 ---
 title: "Lab Alumni"
 linkTitle: "Lab Alumni"
-weight: 5
+weight: 6
 type: docs
 ---
 

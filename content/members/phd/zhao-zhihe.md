@@ -1,5 +1,5 @@
 ---
-title: "ZHAO Zhihe"
+title: "Zhihe ZHAO"
 weight: 8
 type: docs
 description: >
@@ -12,6 +12,6 @@ description: >
     </div>
 </div>
 
- - **Position:** 2nd Year PhD Student
+ - **Position:** 3rd Year PhD Student
  - **Contact:** [1155170475@link.cuhk.edu.hk](1155170475@link.cuhk.edu.hk)
  - **Bio:** [Website](https://kyrie-zhao.github.io/)

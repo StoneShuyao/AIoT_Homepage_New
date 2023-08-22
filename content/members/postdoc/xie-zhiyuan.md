@@ -1,9 +1,9 @@
 ---
-title: "XIE Zhiyuan"
-weight: 3
+title: "Zhiyuan XIE"
+weight: 7
 type: docs
 description: >
-  Ph.D. Candidate
+  Postdoc
 ---
 
 <div class="member-photo-frame wk-desk-4 wk-ipadp-4 wk-mobile-12 wk-tab-12">
@@ -12,6 +12,5 @@ description: >
     </div>
 </div>
 
- - **Position:** 4th Year PhD Student
+ - **Position:** Postdoc
  - **Contact:** [xz019@ie.cuhk.edu.hk](xz019@ie.cuhk.edu.hk)
- - **Bio:** 

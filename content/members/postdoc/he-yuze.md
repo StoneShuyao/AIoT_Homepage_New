@@ -1,9 +1,9 @@
 ---
-title: "HE Yuze"
-weight: 6
+title: "Yuze HE"
+weight: 9
 type: docs
 description: >
-  Ph.D. Candidate
+  Postdoc
 ---
 
 <div class="member-photo-frame wk-desk-4 wk-ipadp-4 wk-mobile-12 wk-tab-12">
@@ -12,6 +12,6 @@ description: >
     </div>
 </div>
 
- - **Position:** 4th Year PhD Student
+ - **Position:** Postdoc
  - **Contact:** [hy019@ie.cuhk.edu.hk](hy019@ie.cuhk.edu.hk)
  - **Bio:** [Website](https://yuzehh.github.io/homepage/)

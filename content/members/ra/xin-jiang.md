@@ -1,5 +1,5 @@
 ---
-title: "XIN Jiang"
+title: "Jiang XIN"
 weight: 5
 type: docs
 description: >
@@ -15,4 +15,3 @@ description: >
 
  - **Position:** Research Assistant
  - **Contact:** [jiangxin@cuhk.edu.hk](jiangxin@cuhk.edu.hk)
- - **Bio:** 

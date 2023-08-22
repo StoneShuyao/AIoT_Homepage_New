@@ -1,5 +1,5 @@
 ---
-title: "BIAN Chen"
+title: "Chen BIAN"
 weight: 4
 type: docs
 description: >
@@ -14,4 +14,3 @@ description: >
 
  - **Position:** Research Assistant
  - **Contact:** [b1anchen@163.com](b1anchen@163.com)
- - **Bio:** 

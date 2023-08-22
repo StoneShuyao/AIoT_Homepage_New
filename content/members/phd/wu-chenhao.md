@@ -1,5 +1,5 @@
 ---
-title: "WU Chenhao"
+title: "Chenhao WU"
 weight: 9
 type: docs
 description: >
@@ -12,6 +12,6 @@ description: >
     </div>
 </div>
 
- - **Position:** 2nd Year PhD Student
+ - **Position:** 3rd Year PhD Student
  - **Contact:** [chenhaowu@link.cuhk.edu.hk](chenhaowu@link.cuhk.edu.hk)
  - **Bio:** [Website](https://vitowu.net/about/)

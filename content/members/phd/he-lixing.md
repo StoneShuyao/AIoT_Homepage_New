@@ -1,5 +1,5 @@
 ---
-title: "HE Lixing"
+title: "Lixing HE"
 weight: 7
 type: docs
 description: >
@@ -12,6 +12,6 @@ description: >
     </div>
 </div>
 
- - **Position:** 2nd Year PhD Student
+ - **Position:** 3rd Year PhD Student
  - **Contact:** [hl021@ie.cuhk.edu.hk](hl021@ie.cuhk.edu.hk)
- - **Bio:** 
+ - **Bio:** [Website](https://lixinghe1999.github.io/)

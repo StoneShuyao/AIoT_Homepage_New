@@ -17,7 +17,7 @@ menu:
         <img src="/images/members/XING-Guoliang.jpg">
       </div>
       <p class="name">
-        XING Guoliang
+        Guoliang XING
       </p>
       <p class="position">
         Professor
@@ -32,7 +32,22 @@ menu:
         <img src="/images/members/YAN-Zhenyu.jpg">
       </div>
       <p class="name">
-        YAN Zhenyu
+        Zhenyu YAN
+      </p>
+      <p class="position">
+         Research Assistant Professor
+      </p>
+    </div>
+  </a >
+  <!-- ==================================================== -->
+  <!-- ============== A block of a member ================= -->
+  <a href="faculty/chen-hongkai">
+    <div class="single-member wk-desk-4 wk-ipadp-4 wk-mobile-12 wk-tab-12">
+      <div class="team-member-image">
+        <img src="/images/members/CHEN-Hongkai.jpg">
+      </div>
+      <p class="name">
+        Hongkai CHEN
       </p>
       <p class="position">
          Research Assistant Professor
@@ -43,7 +58,6 @@ menu:
 </div>
 
 ## Postdoc
-
 <div class="members-block">
   <!-- ============== A block of a member ================= -->
   <a href="postdoc/liu-fang">
@@ -52,7 +66,7 @@ menu:
         <img src="/images/members/LIU-Fang.jpg">
       </div>
       <p class="name">
-        LIU Fang
+        Fang LIU
       </p>
       <p class="position">
         Postdoc
@@ -67,7 +81,7 @@ menu:
         <img src="/images/members/LIANG-Zhijian.jpg">
       </div>
       <p class="name">
-        LIANG Zhijian
+        Zhijian LIANG
       </p>
       <p class="position">
         Postdoc
@@ -82,7 +96,7 @@ menu:
         <img src="/images/members/LING-Neiwen.jpg">
       </div>
       <p class="name">
-        LING Neiwen
+        Neiwen LING
       </p>
       <p class="position">
         Postdoc
@@ -97,7 +111,83 @@ menu:
         <img src="/images/members/SHUAI-Xian.jpg">
       </div>
       <p class="name">
-        SHUAI Xian
+        Xian SHUAI
+      </p>
+      <p class="position">
+        Postdoc
+      </p>
+    </div>
+  </a>
+  <!-- ==================================================== -->
+  
+  <!-- ============== A block of a member ================= -->
+  <a href="postdoc/ouyang-xiaomin">
+    <div class="single-member wk-desk-4 wk-ipadp-4 wk-mobile-12 wk-tab-12">
+      <div class="team-member-image">
+        <img src="/images/members/OUYANG-Xiaomin.jpg">
+      </div>
+      <p class="name">
+        Xiaomin OUYANG
+      </p>
+      <p class="position">
+        Postdoc
+      </p>
+    </div>
+  </a>
+  <!-- ==================================================== -->
+  <!-- ============== A block of a member ================= -->
+  <a href="postdoc/xie-zhiyuan">
+    <div class="single-member wk-desk-4 wk-ipadp-4 wk-mobile-12 wk-tab-12">
+      <div class="team-member-image">
+        <img src="/images/members/XIE-Zhiyuan.jpg">
+      </div>
+      <p class="name">
+        Zhiyuan XIE
+      </p>
+      <p class="position">
+        Postdoc
+      </p>
+    </div>
+  </a>
+  <!-- ==================================================== -->
+  <!-- ============== A block of a member ================= -->
+  <a href="postdoc/he-yuze">
+    <div class="single-member wk-desk-4 wk-ipadp-4 wk-mobile-12 wk-tab-12">
+      <div class="team-member-image">
+        <img src="/images/members/HE-Yuze.jpg">
+      </div>
+      <p class="name">
+        Yuze HE
+      </p>
+      <p class="position">
+        Postdoc
+      </p>
+    </div>
+  </a>
+  <!-- ==================================================== -->
+  <!-- ============== A block of a member ================= -->
+  <a href="postdoc/shi-shuyao">
+    <div class="single-member wk-desk-4 wk-ipadp-4 wk-mobile-12 wk-tab-12">
+      <div class="team-member-image">
+        <img src="/images/members/SHI-Shuyao.jpg">
+      </div>
+      <p class="name">
+        Shuyao SHI
+      </p>
+      <p class="position">
+        Postdoc
+      </p>
+    </div>
+  </a>
+  <!-- ==================================================== -->
+  <!-- ============== A block of a member ================= -->
+  <a href="postdoc/jiang-zhehao">
+    <div class="single-member wk-desk-4 wk-ipadp-4 wk-mobile-12 wk-tab-12">
+      <div class="team-member-image">
+        <img src="/images/members/JIANG-Zhehao.jpg">
+      </div>
+      <p class="name">
+        Zhehao JIANG
       </p>
       <p class="position">
         Postdoc
@@ -108,53 +198,7 @@ menu:
 </div>
 
 ## Ph.D. Students
-
 <div class="members-block">
-  <!-- ============== A block of a member ================= -->
-  <a href="phd/jiang-zhehao">
-    <div class="single-member wk-desk-4 wk-ipadp-4 wk-mobile-12 wk-tab-12">
-      <div class="team-member-image">
-        <img src="/images/members/JIANG-Zhehao.jpg">
-      </div>
-      <p class="name">
-        JIANG Zhehao
-      </p>
-      <p class="position">
-        Ph.D. Candidate
-      </p>
-    </div>
-  </a>
-  <!-- ==================================================== -->
-  <!-- ============== A block of a member ================= -->
-  <a href="phd/ouyang-xiaomin">
-    <div class="single-member wk-desk-4 wk-ipadp-4 wk-mobile-12 wk-tab-12">
-      <div class="team-member-image">
-        <img src="/images/members/OUYANG-Xiaomin.jpg">
-      </div>
-      <p class="name">
-        OUYANG Xiaomin
-      </p>
-      <p class="position">
-        Ph.D. Candidate
-      </p>
-    </div>
-  </a>
-  <!-- ==================================================== -->
-  <!-- ============== A block of a member ================= -->
-  <a href="phd/xie-zhiyuan">
-    <div class="single-member wk-desk-4 wk-ipadp-4 wk-mobile-12 wk-tab-12">
-      <div class="team-member-image">
-        <img src="/images/members/XIE-Zhiyuan.jpg">
-      </div>
-      <p class="name">
-        XIE Zhiyuan
-      </p>
-      <p class="position">
-        Ph.D. Candidate
-      </p>
-    </div>
-  </a>
-  <!-- ==================================================== -->
   <!-- ============== A block of a member ================= -->
   <a href="phd/huang-xuan">
     <div class="single-member wk-desk-4 wk-ipadp-4 wk-mobile-12 wk-tab-12">
@@ -162,7 +206,7 @@ menu:
         <img src="/images/members/HUANG-Xuan.jpg">
       </div>
       <p class="name">
-        HUANG Xuan
+        Xuan HUANG
       </p>
       <p class="position">
         Ph.D. Candidate
@@ -170,36 +214,7 @@ menu:
     </div>
   </a>
   <!-- ==================================================== -->
-  <!-- ============== A block of a member ================= -->
-  <a href="phd/shi-shuyao">
-    <div class="single-member wk-desk-4 wk-ipadp-4 wk-mobile-12 wk-tab-12">
-      <div class="team-member-image">
-        <img src="/images/members/SHI-Shuyao.jpg">
-      </div>
-      <p class="name">
-        SHI Shuyao
-      </p>
-      <p class="position">
-        Ph.D. Candidate
-      </p>
-    </div>
-  </a>
-  <!-- ==================================================== -->
-  <!-- ============== A block of a member ================= -->
-  <a href="phd/he-yuze">
-    <div class="single-member wk-desk-4 wk-ipadp-4 wk-mobile-12 wk-tab-12">
-      <div class="team-member-image">
-        <img src="/images/members/HE-Yuze.jpg">
-      </div>
-      <p class="name">
-        HE Yuze
-      </p>
-      <p class="position">
-        Ph.D. Candidate
-      </p>
-    </div>
-  </a>
-  <!-- ==================================================== -->
+  
   <!-- ============== A block of a member ================= -->
   <a href="phd/he-lixing">
     <div class="single-member wk-desk-4 wk-ipadp-4 wk-mobile-12 wk-tab-12">
@@ -207,7 +222,7 @@ menu:
         <img src="/images/members/HE-Lixing.jpg">
       </div>
       <p class="name">
-        HE Lixing
+        Lixing HE
       </p>
       <p class="position">
         Ph.D. Candidate
@@ -222,7 +237,7 @@ menu:
         <img src="/images/members/ZHAO-Zhihe.jpg">
       </div>
       <p class="name">
-        ZHAO Zhihe
+        Zhihe ZHAO
       </p>
       <p class="position">
         Ph.D. Candidate
@@ -237,7 +252,7 @@ menu:
         <img src="/images/members/WU-Chenhao.jpg">
       </div>
       <p class="name">
-        WU Chenhao
+        Chenhao WU
       </p>
       <p class="position">
         Ph.D. Candidate
@@ -252,7 +267,7 @@ menu:
         <img src="/images/members/HOU-Haozheng.jpg">
       </div>
       <p class="name">
-        HOU Haozheng
+        Haozheng HOU
       </p>
       <p class="position">
         Ph.D. Candidate
@@ -267,7 +282,7 @@ menu:
         <img src="/images/members/ZHANG-Xifan.jpg">
       </div>
       <p class="name">
-        ZHANG Xifan
+        Xifan ZHANG
       </p>
       <p class="position">
         Ph.D. Candidate
@@ -282,7 +297,7 @@ menu:
         <img src="/images/members/LI-Yang.jpg">
       </div>
       <p class="name">
-        LI Yang
+        Yang LI
       </p>
       <p class="position">
         Ph.D. Candidate
@@ -297,7 +312,7 @@ menu:
         <img src="/images/members/JIANG-Siyang.jpg">
       </div>
       <p class="name">
-        JIANG Siyang
+        Siyang JIANG
       </p>
       <p class="position">
         Ph.D. Candidate
@@ -312,7 +327,7 @@ menu:
         <img src="/images/members/LIU-Kaiwei.jpg">
       </div>
       <p class="name">
-        LIU Kaiwei
+        Kaiwei LIU
       </p>
       <p class="position">
         Ph.D. Candidate
@@ -327,7 +342,7 @@ menu:
         <img src="/images/members/YANG-Shaoyang.jpg">
       </div>
       <p class="name">
-        YANG Shaoyang
+        Shaoyang YANG
       </p>
       <p class="position">
         Ph.D. Candidate
@@ -342,7 +357,7 @@ menu:
         <img src="/images/members/YANG-Bufang.jpg">
       </div>
       <p class="name">
-        YANG Bufang
+        Bufang YANG
       </p>
       <p class="position">
         Ph.D. Candidate
@@ -357,7 +372,82 @@ menu:
         <img src="/images/members/XIA-Jingfei.jpg">
       </div>
       <p class="name">
-        XIA Jingfei
+        Jingfei XIA
+      </p>
+      <p class="position">
+        Ph.D. Candidate
+      </p>
+    </div>
+  </a>
+  <!-- ==================================================== -->
+  <!-- ============== A block of a member ================= -->
+  <a href="phd/jin-shangcheng">
+    <div class="single-member wk-desk-4 wk-ipadp-4 wk-mobile-12 wk-tab-12">
+      <div class="team-member-image">
+        <img src="/images/members/JIN-Shangcheng.jpg">
+      </div>
+      <p class="name">
+        Shangcheng JIN
+      </p>
+      <p class="position">
+        Ph.D. Candidate
+      </p>
+    </div>
+  </a>
+  <!-- ==================================================== -->
+  <!-- ============== A block of a member ================= -->
+  <a href="phd/xiao-kaicheng">
+    <div class="single-member wk-desk-4 wk-ipadp-4 wk-mobile-12 wk-tab-12">
+      <div class="team-member-image">
+        <img src="/images/members/XIAO-Kaicheng.jpg">
+      </div>
+      <p class="name">
+        Kaicheng XIAO
+      </p>
+      <p class="position">
+        Ph.D. Candidate
+      </p>
+    </div>
+  </a>
+  <!-- ==================================================== -->
+  <!-- ============== A block of a member ================= -->
+  <a href="phd/li-haotian">
+    <div class="single-member wk-desk-4 wk-ipadp-4 wk-mobile-12 wk-tab-12">
+      <div class="team-member-image">
+        <img src="/images/members/LI-Haotian.jpg">
+      </div>
+      <p class="name">
+        Haotian LI
+      </p>
+      <p class="position">
+        Ph.D. Candidate
+      </p>
+    </div>
+  </a>
+  <!-- ==================================================== -->
+  <!-- ============== A block of a member ================= -->
+  <a href="phd/he-yuting">
+    <div class="single-member wk-desk-4 wk-ipadp-4 wk-mobile-12 wk-tab-12">
+      <div class="team-member-image">
+        <img src="/images/members/HE-Yuting.jpg">
+      </div>
+      <p class="name">
+        Yuting HE
+      </p>
+      <p class="position">
+        Ph.D. Candidate
+      </p>
+    </div>
+  </a>
+  <!-- ==================================================== -->
+  <!-- ============== A block of a member ================= -->
+  <a href="phd/dong-liran">
+    <div class="single-member wk-desk-4 wk-ipadp-4 wk-mobile-12 wk-tab-12">
+      <div class="team-member-image">
+        <img src="/images/members/DONG-Liran.jpg">
+      </div>
+      <p class="name">
+        Liran DONG
       </p>
       <p class="position">
         Ph.D. Candidate
@@ -377,7 +467,7 @@ menu:
         <img src="/images/members/PAN-Li.jpg">
       </div>
       <p class="name">
-        PAN Li
+        Li PAN
       </p>
       <p class="position">
         Research Assistant
@@ -392,7 +482,7 @@ menu:
         <img src="/images/members/FU-Heming.jpg">
       </div>
       <p class="name">
-        FU Heming
+        Heming FU
       </p>
       <p class="position">
         Research Assistant
@@ -407,7 +497,7 @@ menu:
         <img src="/images/members/CHENG-Sitong.jpg">
       </div>
       <p class="name">
-        CHENG Sitong
+        Sitong CHENG
       </p>
       <p class="position">
         Research Assistant
@@ -422,7 +512,7 @@ menu:
         <img src="/images/members/BIAN-Chen.jpg">
       </div>
       <p class="name">
-        BIAN Chen
+        Chen BIAN
       </p>
       <p class="position">
         Research Assistant
@@ -447,6 +537,27 @@ menu:
   </a>
   <!-- ==================================================== -->
 </div>
+
+## Staff
+
+<div class="members-block">
+  <!-- ============== A block of a member ================= -->
+  <a href="staff/cao-shihua">
+    <div class="single-member wk-desk-4 wk-ipadp-4 wk-mobile-12 wk-tab-12">
+      <div class="team-member-image">
+        <img src="/images/members/CAO-Shihua.jpg">
+      </div>
+      <p class="name">
+        Shihua CAO
+      </p>
+      <p class="position">
+        Research Associate
+      </p>
+    </div>
+  </a>
+  <!-- ==================================================== -->
+</div>
+
 
 ### Lab Alumni
 <li><b>Linlin Tu</b>, MSU, Ph.D 2021, Machine Learning Research Scientist, Meta.</li>
